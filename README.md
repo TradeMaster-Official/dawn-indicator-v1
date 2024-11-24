@@ -4,6 +4,8 @@
 
 Welcome to the **Dawn Indicator V1.0.0**! This Pine Script indicator is designed to help you identify potential uptrends and downtrends in the market using a combination of RSI, EMA, and MACD calculations. The indicator also includes a Non-Repainting Weighted Exponential (NWE) smoothing feature for enhanced analysis.
 
+![Dawn Indicator Example](./dawn.png)
+
 ## Features
 
 - **RSI Calculation**: Calculates the Relative Strength Index (RSI) with customizable parameters.
